@@ -1,8 +1,8 @@
 ---
 title: 스폿훈이 소개
 date: 2025-09-10 12:21:01 +0900
-categories: 소개글
-tags: spothoonie
+categories: [소개글]
+tags: [spothoonie]
 pin: true
 ---
 
