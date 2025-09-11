@@ -6,4 +6,4 @@ tags: [spothoonie]
 pin: true
 ---
 > 상점이 비어있습니다
-{: .warning}
+> {: .warning}
