@@ -1,6 +1,6 @@
 ---
 title: "스폿훈이 소개"
-date: 2025-09-10 12:21:01 +09:00
+date: 2025-09-11 16:44:01 +09:00
 categories: [Introduction]
 tags: [spothoonie]
 pin: true
