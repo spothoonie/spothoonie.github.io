@@ -5,6 +5,6 @@ categories: [shop]
 tags: [spothoonie]
 pin: true
 ---
-> **경고**
-> {: .warning}
-> 상점이 비어 있습니다
+{% include callout.html type="warning" title="경고" %}
+상점이 비어있습니다
+{% endinclude %}
