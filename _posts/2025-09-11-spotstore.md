@@ -5,5 +5,6 @@ categories: [shop]
 tags: [spothoonie]
 pin: true
 ---
-> 상점이 비어있습니다.
-{: .prompt- warning}
+> **경고**
+> {: .warning}
+> 상점이 비어 있습니다
