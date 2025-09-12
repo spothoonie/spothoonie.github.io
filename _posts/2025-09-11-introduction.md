@@ -19,12 +19,6 @@ pin: true
 ## 함께 만들어가는 스폿훈 커뮤니티
 이곳은 단순한 웹사이트가 아닙니다. 스폿훈을 사랑하는 모든 분들이 모여 소통하고, 아이디어를 나누며, 함께 성장해나가는 공간입니다.
 
-# 인기 영상
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/0RvcjK7AqDQ"
-title="YouTube video player"
-frameborder="0" allowfullscreen></iframe>
-
 # 구성 멤버
 **대표 이예훈**
 
@@ -46,5 +40,8 @@ frameborder="0" allowfullscreen></iframe>
 
 
 # 끝말
-앞으로도 더 재미있는 콘텐츠로 찾아올 수 있도록 항상 노력하겠습니다.  
-감사합니다!
+**“특별함은 멀리 있지 않습니다. 우리 일상 곳곳에 숨어있죠.”**
+
+스폿훈과 함께 새로운 발견의 여정을 시작해보세요!
+
+앞으로도 더 재미있는 콘텐츠로 찾아올 수 있도록 항상 노력하겠습니다.
